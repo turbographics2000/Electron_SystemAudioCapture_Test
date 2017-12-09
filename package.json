@@ -1,0 +1,23 @@
+{
+  "name": "Electron_SystemAudioCapture_Test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turbographics2000/Electron_SystemAudioCapture_Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/turbographics2000/Electron_SystemAudioCapture_Test/issues"
+  },
+  "homepage": "https://github.com/turbographics2000/Electron_SystemAudioCapture_Test#readme",
+  "devDependencies": {
+    "electron-packager": "^10.1.0"
+  }
+}

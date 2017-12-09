@@ -1,1 +1,2 @@
 # Electron_SystemAudioCapture_Test
+Electronでのシステムオーディオキャプチャーテスト。
