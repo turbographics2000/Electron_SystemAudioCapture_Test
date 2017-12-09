@@ -1,2 +1,3 @@
 # Electron_SystemAudioCapture_Test
 Electronでのシステムオーディオキャプチャーテスト。
+起動して、なんか音鳴らすとものすごいハウリングすればOK.
