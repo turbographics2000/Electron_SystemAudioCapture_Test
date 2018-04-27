@@ -17,7 +17,8 @@
     "url": "https://github.com/turbographics2000/Electron_SystemAudioCapture_Test/issues"
   },
   "homepage": "https://github.com/turbographics2000/Electron_SystemAudioCapture_Test#readme",
-  "devDependencies": {
-    "electron-packager": "^10.1.0"
+  "devDependencies": {},
+  "dependencies": {
+    "electron-packager": "^12.0.1"
   }
 }
